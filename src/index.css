@@ -8,6 +8,7 @@
     font-family: 'IBM Plex Sans Thai', 'Sarabun', 'Inter', system-ui, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    font-size: 150%;
   }
 
   /* Better Thai text rendering */
